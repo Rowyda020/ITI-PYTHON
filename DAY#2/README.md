@@ -1,1 +1,6 @@
-## DAY NO.2
+# DAY NO.2
+## TUPLES
+### operations:
+{index , len , Concatenation , Membership , 
+iterations , Min , max ,
+}
