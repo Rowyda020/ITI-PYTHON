@@ -1,3 +1,2 @@
 
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Rowyda020/ITI-PYTHON?style=plastic">
-![banner](https://user-images.githubusercontent.com/76496105/221377857-2e98965d-0259-40d6-840b-3f909b2b5636.png)
+![banner (1)](https://user-images.githubusercontent.com/76496105/221378465-82620099-bd2e-4012-988b-020f1cdb0bd7.png)
