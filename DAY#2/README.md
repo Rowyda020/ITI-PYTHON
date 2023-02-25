@@ -1,5 +1,5 @@
 # DAY NO.2
-#### Type of sequence but immutable datatype.
+#### Tuples are like lists, However they are immutable.
 ## TUPLES
 ### operations:
 {index , len , Concatenation , Membership , 
