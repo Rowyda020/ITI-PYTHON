@@ -9,23 +9,27 @@ Logical
 ## Control Statements
 If statemtent
 ## Strings
-String Functions {
+### String Functions 
+{
 interpolation , capitalize , replace ,
 isdigit , isalpha , isnumeric , islower,
 }
 ## Numbers
-### Types {
+### Types 
+{
 Integers
 Float
 Complex
 }
-### Functions {
+### Functions 
+{
 Round
 Min 
 Max
 }
 ## DATA-STRUCTURES:
-### Lists {
+### Lists 
+{
 pop , append , insert , 
 remove , extend , len.
 }
