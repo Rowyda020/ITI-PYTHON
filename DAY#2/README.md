@@ -2,7 +2,7 @@
 ## TUPLES
 Tuples are like lists, However they are immutable.
 ### Operations:
-{index , len , Concatenation , Membership , 
+{ index , len , Concatenation , Membership , 
 iterations , Min , max 
 }
 ## DICTIONARIES
@@ -25,7 +25,6 @@ def - keyword used to declare a function
 function_name - any name given to the function
 arguments - any value passed to function
 return (optional) - returns value from a functionccomplish a specific task.
-
 
 # *args: variable number of arguments
 Python supports functions with variable number of arguments using the special syntax *args
