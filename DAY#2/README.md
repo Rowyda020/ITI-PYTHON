@@ -10,3 +10,6 @@ iterations , Min , max
 { len , keys , values , items , 
 update , check for key/value , 
 loop over dic , clear ,del.}
+
+![image](https://user-images.githubusercontent.com/76496105/221393210-192f6aba-3023-4dae-b69c-669ca053343d.png)
+
