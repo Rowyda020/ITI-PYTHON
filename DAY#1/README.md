@@ -1,11 +1,8 @@
 # DAY NO.1
 ## Var types and conditions
 type()
-## Operators
-Arthimetic
-Assignment
-Comparison
-Logical
+## Operators:
+{ Arthimetic , Assignment , Comparison , Logical }
 ## Control Statements
 If statemtent
 ## Strings
@@ -16,16 +13,11 @@ isdigit , isalpha , isnumeric , islower,
 }
 ## Numbers
 ### Types 
-{
-Integers
-Float
-Complex
+{ Integers , Float , Complex
 }
 ### Functions 
 {
-Round
-Min 
-Max
+Round , Min , Max
 }
 ## DATA-STRUCTURES:
 ### Lists 
