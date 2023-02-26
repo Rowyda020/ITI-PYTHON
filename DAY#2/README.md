@@ -17,9 +17,4 @@ loop over dic , clear ,del.}
 
 
 
-
-
-![carbon (2)](https://user-images.githubusercontent.com/76496105/221393454-c7cd1ced-e718-4fc9-bcb4-6beace8aa9ac.png)
-
-
-![carbon (3)](https://user-images.githubusercontent.com/76496105/221393475-4e6de8f8-43aa-4702-8500-e4ee8c1b1921.png)
+![carbon (4)](https://user-images.githubusercontent.com/76496105/221393501-ae17a971-e70a-4ea8-b5bb-8222a66f1dff.png)
