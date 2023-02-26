@@ -1,6 +1,6 @@
 # DAY NO.2
-#### Tuples are like lists, However they are immutable.
 ## TUPLES
+Tuples are like lists, However they are immutable.
 ### Operations:
 {index , len , Concatenation , Membership , 
 iterations , Min , max 
@@ -25,8 +25,6 @@ def - keyword used to declare a function
 function_name - any name given to the function
 arguments - any value passed to function
 return (optional) - returns value from a functionccomplish a specific task.
-![carbon (9)](https://user-images.githubusercontent.com/76496105/221393792-2826a5e1-9f05-4650-b2b2-89fede130278.png)
-
 
 
 # *args: variable number of arguments
